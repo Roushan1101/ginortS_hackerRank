@@ -1,0 +1,2 @@
+# ginortS_hackerRank
+Function_list_methods_short time complexity
